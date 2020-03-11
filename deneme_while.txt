@@ -24,3 +24,4 @@ while True:
     else :
         print("    canım benim işlem yapmak istiyorsan ya 1 e ya 2 ye basacaksın zor değil")
         print(giriş)
+ son sürüm 
